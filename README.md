@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virtuosit
-- 👀 I’m interested in learn Python and share my dotfiles (to start)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learn Python and JavaDcript and share my dotfiles (to start)
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on any Project that can take advantage of my learning skills
 - 📫 How to reach me... you can send me a msg here :)
 
